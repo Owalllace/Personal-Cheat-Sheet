@@ -3,12 +3,44 @@
     background-color: #f8b595;
 }
 
-.container {
-    background-color: 
-}
-h1 {
-    color: #6c5b7c;
+.header {
+    color: black;
     text-align: center;
-    font-size: 50px;
+    font-size: 25px;
 }
 
+.navbar {
+    text-align: center;
+    color: #6c5b7c;
+    
+}
+
+#HTML {
+    height: 100px;
+    width: 100px;
+}
+
+#CSS {
+    height: 100px;
+    width: 100px;
+}
+
+#JavaScript  {
+    height: 100px;
+    width: 100px;
+}
+
+#Python {
+    height: 100px;
+    width: 100px;
+}
+
+#React {
+    height: 100px;
+    width: 100px;
+}
+
+#Flask {
+    height: 100px;
+    width: 100px;   
+}
