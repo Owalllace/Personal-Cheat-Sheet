@@ -1,0 +1,11 @@
+* {
+    font-family: Montserrat;
+}
+
+#container {
+    background-color: rgb(205, 225, 195);
+}
+h1 {
+    color: white;
+    text-align: center;
+}
